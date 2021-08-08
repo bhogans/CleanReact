@@ -1,4 +1,5 @@
-import { Route, Switch } from 'react-router';
+import React from 'react';
+import { Route, Switch } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './components/Home';
 import Queue from './components/WarrantyClaimQueue';
